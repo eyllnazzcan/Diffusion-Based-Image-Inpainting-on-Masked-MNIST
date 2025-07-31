@@ -23,7 +23,7 @@ This project demonstrates how diffusion models can be applied to the task of **i
 ---
 
 ## Sample Results
-![](samples/output.png)
-![](samples/outout_2.png)
+| ![](samples/output.png) |
+| ![](samples/outout_2.png) |
 
 
